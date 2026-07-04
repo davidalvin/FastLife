@@ -1,6 +1,6 @@
 # Conway's Game of Life - Ultra Fast Enhanced
 
-An interactive Conway's Game of Life simulation built with p5.js, featuring configurable boundary conditions, real-time speed control, and modern UI design.
+Conlife is a fast, interactive Conway’s Game of Life simulation built with JavaScript and p5.js. It supports real-time controls, editable cells, configurable simulation dimensions, and custom boundary behavior for experimenting with different cellular automata patterns.
 
 ## Features
 
